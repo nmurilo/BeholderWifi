@@ -23,7 +23,7 @@ By default, beholder can detect Judicious KARMA, and some types of jamming
 2. Supported Systems
 --------------------
 
-Beholder currently works ony in Linux 2.6.x. 
+Beholder currently works ony in Linux machines. 
 
 
 3. Instalation 
