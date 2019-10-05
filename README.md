@@ -11,8 +11,9 @@
                 This tool includes some portion of software developed 
                 by Jean Tourrilhes for Wireless-Tools package. 
 
+-----------------------
 1. What's beholder? 
----------------------
+
 
 Beholder is a tool to detect some anomalies in wifi enviroment, such as
 suspicious changes in essid, mac encryption protocol and channel for legitime networks, alert for new "suspect"
@@ -20,23 +21,22 @@ networks and it detects passive malicious hotspot tools, like karma, airbase-ng 
 It also can detects similar essid names and alert for APs suddenly disappear based on regular expressions.
 By default, beholder can detect Judicious KARMA, and some types of jamming 
 
-2. Supported Systems
 --------------------
+2. Supported Systems
+
 
 Beholder currently works ony in Linux machines. 
 
+-------------
 
 3. Instalation 
--------------
 
 # make sense
 
-PS: 
-Please ignore "warning: the use of `mktemp' is dangerous, better use `mkstemp' or `mkdtemp'" message, we won't create a temporary files, that function is only used as an easy way to create a random essid. 
+PS: Please ignore "warning: the use of `mktemp' is dangerous, better use `mkstemp' or `mkdtemp'" message, we won't create a temporary files, that function is only used as an easy way to create a random essid. 
 
-
-4. Usage
 ---------
+4. Usage
 
 beholder [options] <wifi_device> 
 
@@ -59,13 +59,13 @@ It matchs with "0infosec", "inf0sec","1nfosec-1", etc.
 beholder -r ".*[1i]nf[0o]s[3e]c.*" -m ".*companynet.*"
 It matchs with "0infosec", "inf0sec","1nfosec-1" and start with "companynet"
 
-
-5. Reports and questions
 -----------------------
+5. Reports and questions
+
 
 Please send comments, questions and bug reports to nelsonatbeholderwireless.org
 
-
+-----------------------
 6. ACKNOWLEDGMENTS
 
 Many thanks to Andre, Luiz Eduardo, Ronaldo Vasconcellos and Willian Caprino for they really nice ideas and bugs reports. 
