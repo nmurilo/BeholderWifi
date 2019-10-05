@@ -32,7 +32,7 @@ Beholder currently works ony in Linux machines.
 # make sense
 
 PS: 
-Please ignore "warning: the use of `mktemp' is dangerous, better use `mkstemp' or `mkdtemp'" message, we won't create a temporary files, that function only used as an easy way to create a random essid. 
+Please ignore "warning: the use of `mktemp' is dangerous, better use `mkstemp' or `mkdtemp'" message, we won't create a temporary files, that function is only used as an easy way to create a random essid. 
 
 
 4. Usage
@@ -43,7 +43,7 @@ beholder [options] <wifi_device>
 Options:
 
         -s      send reports to syslog instead to console. 
-        -a      add new networks in initial network table (usual option) 
+        -a      add new networks on the initial network table (usual option) 
         -r      regular expression to check essid name variations (case insensitive by default)
         -m      regular expression to check disappeared essid name 
         -c      clever mode. Detect similar essid based on same length and similar name. Regular expression is not used here. 
@@ -54,16 +54,10 @@ Regular expression option works without limitations, please spend a time to lear
 
 Example: 
 beholder -r ".*[1i]nf[0o]s[3e]c.*" 
-It match "0infosec", "inf0sec","1nfosec-1", etc. 
-        -dd     verbose  
-
-Regular expression option works without limitations, please spend a time to learn about regex, to explore all potential of this. 
-
-Example: 
-beholder -r ".*[1i]nf[0o]s[3e]c.*" 
-It match "0infosec", "inf0sec","1nfosec-1", etc. 
+It matchs with "0infosec", "inf0sec","1nfosec-1", etc. 
 
 beholder -r ".*[1i]nf[0o]s[3e]c.*" -m ".*companynet.*"
+It matchs with "0infosec", "inf0sec","1nfosec-1" and start with "companynet"
 
 
 5. Reports and questions
