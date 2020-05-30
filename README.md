@@ -66,6 +66,6 @@ Please send comments, questions and bug reports to nelsonatpangeia.com.br.
 -----------------------
 6. ACKNOWLEDGMENTS
 
-Many thanks to Andre, Luiz Eduardo, Ronaldo Vasconcellos and Willian Caprino for they really nice ideas and bugs reports. 
+Many thanks to Andre, Luiz Eduardo, Ronaldo Vasconcellos and Willian Caprino for they really nice ideas and bug reports. 
 
 
