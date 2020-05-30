@@ -3,8 +3,6 @@
 
           Nelson Murilo <nelson@pangeia.com.br> (main author)
 
-         beholder is available at: http://www.beholderwireless.org/
-
                  No illegal activities are encouraged!
          I'm not responsible for anything you may do with it.
 
