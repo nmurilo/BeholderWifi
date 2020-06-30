@@ -14,7 +14,7 @@
 
 
 Beholder is a tool to detect some anomalies in wifi enviroment, such as
-suspicious changes in essid, mac encryption protocol and channel for legitime networks, alert for new "suspect"
+suspicious changes in essid, also in mac encryption protocol or channel for legitime networks. Generate alerts for new "suspect"
 networks and it detects passive malicious hotspot tools, like karma, airbase-ng and hotpotter. 
 It also can detects similar essid names and alert for APs suddenly disappear based on regular expressions.
 By default, beholder can detect Judicious KARMA, and some types of jamming 
