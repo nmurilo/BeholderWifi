@@ -6,7 +6,7 @@
                  No illegal activities are encouraged!
          I'm not responsible for anything you may do with it.
 
-                This tool includes some portion of software developed 
+                This tool includes a portion of software developed 
                 by Jean Tourrilhes for Wireless-Tools package. 
 
 -----------------------
@@ -59,13 +59,10 @@ It matchs with "0infosec", "inf0sec","1nfosec-1" and start with "companynet"
 
 -----------------------
 5. Reports and questions
-
-
 Please send comments, questions and bug reports to nelsonatpangeia.com.br.
 
 -----------------------
 6. ACKNOWLEDGMENTS
-
 Many thanks to Andre, Luiz Eduardo, Ronaldo Vasconcellos and Willian Caprino for they really nice ideas and bug reports. 
 
 
