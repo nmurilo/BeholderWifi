@@ -31,7 +31,7 @@ Beholder currently works only on Linux machines.
 
 # make sense
 
-PS: Please ignore "warning: the use of `mktemp' is dangerous, better use mkstemp` or `mkdtemp'" message, we won't create a temporary files, this function is only used as an easy way to create a random essid. 
+PS: Please ignore "warning: the use of `mktemp' is dangerous, better use mkstemp` or `mkdtemp'" message, we won't create a temporary files, that is only an easy way to create random essids. 
 
 ---------
 4. Usage
