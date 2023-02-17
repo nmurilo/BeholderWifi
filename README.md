@@ -1,7 +1,7 @@
 # BeholderWifi
                         Beholder V. 0.8.9
 
-          Nelson Murilo <nelson@pangeia.com.br> (main author)
+          Nelson Murilo <nmurilo@gmail.com> (main author)
 
                  No illegal activities are encouraged!
          I'm not responsible for anything you may do with it.
