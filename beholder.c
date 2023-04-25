@@ -11,7 +11,7 @@
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
  *
- * Copyright (c) Nelson Murilo <nelson@pangeia.com.br>, AMS Foundation and 
+ * Copyright (c) Nelson Murilo <nmurilo@gmail.com>, AMS Foundation and 
  * others.  
  * All rights reserved
 */
