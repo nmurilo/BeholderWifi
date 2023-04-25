@@ -44,7 +44,7 @@ Options:
         -a      add new networks on the initial network table (usual option) 
         -r      regular expression to check essid name variations (case insensitive by default)
         -m      regular expression to check disappeared essid name 
-        -c      clever mode. Detect similar essid based on same length and similar name. Regular expression is not used here. 
+        -c      clever mode. Detect similar essid based on same length and similar name. No regular expressionhere. 
         -d      debug 
         -dd     verbose  
 
