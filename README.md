@@ -59,7 +59,7 @@ It matchs with "0infosec", "inf0sec","1nfosec-1" and start with "companynet"
 
 -----------------------
 5. Reports and questions
-Please send comments, questions and bug reports to nelsonatpangeia.com.br.
+Please send comments, questions and bug reports to nmuriloatgmail.com.
 
 -----------------------
 6. ACKNOWLEDGMENTS
