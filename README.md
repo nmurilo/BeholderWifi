@@ -48,7 +48,8 @@ Options:
         -d      debug 
         -dd     verbose  
 
-Regular expression option works without limitations, please spend a time to learn about regex, to explore all potential of this. 
+Regular expression option works without limitations. 
+Please spend a time to learn about regex to explore all potential of it. 
 
 Example: 
 beholder -r ".*[1i]nf[0o]s[3e]c.*" 
