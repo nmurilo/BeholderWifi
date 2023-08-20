@@ -56,7 +56,7 @@ beholder -r ".*[1i]nf[0o]s[3e]c.*"
 It matchs with "0infosec", "inf0sec","1nfosec-1", etc. 
 
 beholder -r ".*[1i]nf[0o]s[3e]c.*" -m ".*companynet.*"
-It matchs with "0infosec", "inf0sec","1nfosec-1" and start with "companynet"
+It matches with "0infosec", "inf0sec","1nfosec-1" and starts with "companynet"
 
 -----------------------
 5. Reports and questions
